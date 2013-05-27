@@ -13,6 +13,8 @@ public class Planet
     float m_Radius;
     int m_Stacks, m_Slices;
 
+    public float[] m_Pos = {0.0f, 0.0f, 0.0f};
+
     public Planet(int stacks, int slices, float radius, float squash)
     {
         this.m_Stacks = stacks;
@@ -20,6 +22,13 @@ public class Planet
         this.m_Radius = radius;
         this.m_Squash=squash;
         init(m_Stacks,m_Slices,radius,squash,"dummy");
+    }
+
+    public void setPosition(float x, float y, float z)
+    {
+        m_Pos[0] = x;
+        m_Pos[1] = y;
+        m_Pos[2] = z;
     }
 
     private void init(int stacks,int slices, float radius, float squash, String textureFile)
