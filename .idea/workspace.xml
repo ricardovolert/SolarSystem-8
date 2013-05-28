@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java" afterPath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/SolarSystem/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/SolarSystem/src/main/res/values-v11/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/res/values-v14/styles.xml" afterPath="$PROJECT_DIR$/SolarSystem/src/main/res/values-v14/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values-v11/values.xml" afterPath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values-v11/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values-v14/values.xml" afterPath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values-v14/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SolarSystem.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369723515811" ignored="false" />
+    <file path="/Dummy.txt" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369726171917" ignored="false" />
     <file path="/MainActivity.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369726068679" ignored="false" />
     <file path="/fragment.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369134090967" ignored="false" />
     <file path="/Planet.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369662235163" ignored="false" />
@@ -617,7 +610,7 @@
       <updated>1369133319413</updated>
       <workItem from="1369133346916" duration="11232000" />
       <workItem from="1369659194366" duration="5224000" />
-      <workItem from="1369723490362" duration="2232000" />
+      <workItem from="1369723490362" duration="2257000" />
     </task>
     <task id="LOCAL-00001" summary="Intento">
       <created>1369134165478</created>
@@ -639,11 +632,15 @@
       <created>1369665484604</created>
       <updated>1369665484604</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Y ya tenemos el sol :)">
+      <created>1369726192327</created>
+      <updated>1369726192327</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18688000" />
+    <option name="totallyTimeSpent" value="18713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="984" extended-state="0" />
