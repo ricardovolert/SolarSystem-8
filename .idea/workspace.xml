@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/Planet.java" afterPath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/Planet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/SolarSystemRenderer.java" afterPath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/SolarSystemRenderer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java" afterPath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/SolarSystem/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/SolarSystem/src/main/res/values-v11/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/res/values-v14/styles.xml" afterPath="$PROJECT_DIR$/SolarSystem/src/main/res/values-v14/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values/values.xml" afterPath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values-v11/values.xml" afterPath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values-v11/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values-v14/values.xml" afterPath="$PROJECT_DIR$/SolarSystem/build/res/all/debug/values-v14/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SolarSystem.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369659233614" ignored="false" />
-    <file path="/MainActivity.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369134037844" ignored="false" />
+    <file path="/Dummy.txt" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369723515811" ignored="false" />
+    <file path="/MainActivity.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369726068679" ignored="false" />
     <file path="/fragment.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369134090967" ignored="false" />
     <file path="/Planet.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369662235163" ignored="false" />
     <file path="/SolarSystemRenderer.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369662319215" ignored="false" />
+    <file path="/styles.xml" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369724901535" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,19 +79,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
+            <state line="16" column="48" selection-start="585" selection-end="585" vertical-scroll-proportion="0.38563326">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SolarSystemRenderer.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="30" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolarSystemRenderer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/SolarSystemRenderer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="4" selection-start="2534" selection-end="2534" vertical-scroll-proportion="2.0245748">
+            <state line="57" column="32" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -95,13 +110,7 @@
         <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/Planet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="26" column="51" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="method#Planet#0;class#Planet#0" expanded="false" />
-                <element signature="method#setPosition#0;class#Planet#0" expanded="false" />
-                <element signature="method#init#0;class#Planet#0" expanded="false" />
-                <element signature="method#makeFloatBuffer#0;class#Planet#0" expanded="false" />
-                <element signature="method#draw#0;class#Planet#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -129,9 +138,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java" />
         <option value="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/Planet.java" />
         <option value="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/SolarSystemRenderer.java" />
+        <option value="$PROJECT_DIR$/SolarSystem/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/SolarSystem/src/main/res/values-v14/styles.xml" />
+        <option value="$PROJECT_DIR$/SolarSystem/src/main/res/values-v11/styles.xml" />
+        <option value="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -165,7 +177,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -242,6 +254,182 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-v14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-v11" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-sw720dp-land" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values-sw600dp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SolarSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -252,7 +440,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -268,8 +456,8 @@
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -428,7 +616,8 @@
       <created>1369133319413</created>
       <updated>1369133319413</updated>
       <workItem from="1369133346916" duration="11232000" />
-      <workItem from="1369659194366" duration="3901000" />
+      <workItem from="1369659194366" duration="5224000" />
+      <workItem from="1369723490362" duration="2232000" />
     </task>
     <task id="LOCAL-00001" summary="Intento">
       <created>1369134165478</created>
@@ -446,11 +635,15 @@
       <created>1369149553737</created>
       <updated>1369149553737</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Y ya tenemos el sol :)">
+      <created>1369665484604</created>
+      <updated>1369665484604</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15133000" />
+    <option name="totallyTimeSpent" value="18688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="984" extended-state="0" />
@@ -521,7 +714,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jugando con luces :D" />
+    <option name="LAST_COMMIT_MESSAGE" value="Y ya tenemos el sol :)" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -538,11 +731,33 @@
     <MESSAGE value="Intento" />
     <MESSAGE value="Prueba" />
     <MESSAGE value="Jugando con luces :D" />
+    <MESSAGE value="Y ya tenemos el sol :)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/SolarSystemRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="8" selection-start="1841" selection-end="1865" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/Planet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="51" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
@@ -560,19 +775,6 @@
     <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/Planet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="93" column="16" selection-start="3695" selection-end="3695" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#Planet#0;class#Planet#0" expanded="false" />
-            <element signature="method#setPosition#0;class#Planet#0" expanded="false" />
-            <element signature="method#init#0;class#Planet#0" expanded="false" />
-            <element signature="method#makeFloatBuffer#0;class#Planet#0" expanded="false" />
-            <element signature="method#draw#0;class#Planet#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="630" selection-end="630" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -580,19 +782,48 @@
     <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/Planet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="51" selection-start="684" selection-end="684" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="method#Planet#0;class#Planet#0" expanded="false" />
-            <element signature="method#setPosition#0;class#Planet#0" expanded="false" />
-            <element signature="method#init#0;class#Planet#0" expanded="false" />
-            <element signature="method#makeFloatBuffer#0;class#Planet#0" expanded="false" />
-            <element signature="method#draw#0;class#Planet#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/SolarSystemRenderer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="4" selection-start="2534" selection-end="2534" vertical-scroll-proportion="2.0245748">
+        <state line="57" column="32" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/res/values-v14/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="53" selection-start="269" selection-end="269" vertical-scroll-proportion="-4.76">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/res/values-v11/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="12" selection-start="323" selection-end="323" vertical-scroll-proportion="0.33730158">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="69" selection-start="251" selection-end="251" vertical-scroll-proportion="0.20238096">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="30" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="48" selection-start="585" selection-end="585" vertical-scroll-proportion="0.38563326">
           <folding />
         </state>
       </provider>

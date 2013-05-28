@@ -14,6 +14,8 @@ public class MainActivity extends Activity {
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
                 WindowManager.LayoutParams.FLAG_FULLSCREEN);
         GLSurfaceView view = new GLSurfaceView(this);
+        //Dar 8 píxeles por componente y 16 de Z
+        view.setEGLConfigChooser(8,8,8,8,16,0); //The new line
         view.setRenderer(new SolarSystemRenderer(true));
         setContentView(view);
     }
